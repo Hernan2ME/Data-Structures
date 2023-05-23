@@ -1,2 +1,3 @@
-# Taller 1
-Desarrollo del taller 1, la carpeta contiene un .pdf con el desarrollo de cada uno de los puntos propuestos en el taller
+# Taller 1.
+En la carpeta se encuentra:
+- Un .pdf con el desarrollo de cada uno de los puntos propuestos en el taller.
